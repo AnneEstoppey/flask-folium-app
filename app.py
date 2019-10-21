@@ -12,7 +12,6 @@ import numpy as np
 import pandas as pd
 import geopandas
 from shapely.geometry import Point
-from IPython.display import IFrame
 
 import requests
 import json
