@@ -13,5 +13,7 @@ dist/
 build/
 *.egg-info/
 
+.vscode/
+
 # Tests & references
 /working_directory/
