@@ -52,10 +52,10 @@ https://pythonhow.com/your-first-flask-website/
 https://python-visualization.github.io/folium/flask.html
 
 **Contact form with Flask-WTF and Flask-mail**<br>
-https://code.tutsplus.com/tutorials/intro-to-flask-adding-a-contact-page--net-28982
+https://code.tutsplus.com/tutorials/intro-to-flask-adding-a-contact-page--net-28982<br>
 https://www.youtube.com/watch?v=48Eb8JuFuUI
 
 **Docker**<br>
-https://towardsdatascience.com/how-to-deploy-your-machine-learning-web-app-to-digital-ocean-64bd19ce15e2
+https://towardsdatascience.com/how-to-deploy-your-machine-learning-web-app-to-digital-ocean-64bd19ce15e2<br>
 https://www.fullstackpython.com/blog/develop-flask-web-apps-docker-containers-macos.html
 
