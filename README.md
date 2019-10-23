@@ -1,7 +1,7 @@
 # flask-folium-app
 By developing this app, we wished to accomplish the following:
 
-1. Create a version 1 of an interactive well map with Folium. Possibility to add new features and functionalities to the map.
+1. Create a version 1 of an interactive well map with Folium.
 
 2. Gain experience with the full path from a Jupyter Notebook, to a Flask app, to deployment.
 
