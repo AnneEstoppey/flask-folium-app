@@ -5,6 +5,8 @@ By developing this app, we wished to accomplish the following:
 
 2. Gain experience with the full path from a Jupyter Notebook, to a Flask app, to deployment.
 
+PLEASE NOTE: the app is not presently online due to costs. We have deployed this app on DigitalOcean during a limited time to test it.
+
 # Project description
 The well data maps shows the position of all exploration wellbores on the Norwegian shelf. Wellbores are grouped into clusters when zooming out. By clicking on a wellbore position, a popup comes up with additional information. 
 
@@ -19,8 +21,13 @@ Additionally, there is a contact form where users can contact us with comments/s
 # Data
 The dataset is in the form of a shapefile which is publicly hosted by the Norwegian Petroleum Directorate, [here.](https://www.npd.no/en/about-us/information-services/available-data/map-services/)
 
+# Future developments
+* Add map functionalites
+* Make website secure (https:)
+
 # Jupyter notebook to WebApp pipeline
-Note: this pipeline is one of the many possibilities how to put a Jupyter notebook app into production. There are many other solutions.
+Note: this pipeline is one of the many possibilities how to transform a Jupyter notebook into a web app, and deploy it. There are many other solutions. Here is the main steps we follow:
+
 * open Jupyter notebook in **Visual Code Studio**. Clean the code (cells, comments, etc). Add functions.
 * create file structure for **Flask** app (app.py, templates, static)
 * add **bootstrap** for UI design
@@ -33,9 +40,7 @@ Note: this pipeline is one of the many possibilities how to put a Jupyter notebo
 * add a new project and droplet on **DigitalOcean**
 * set up SSH access on remote
 * clone repo on remote
-* create **DOCKER container**
+* create **DOCKER container** on remote
 * **LAUNCH APP!**
-
-# Future developments
 
 # References
