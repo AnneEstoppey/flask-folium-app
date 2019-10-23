@@ -7,9 +7,9 @@ By developing this app, we wished to accomplish the following:
 # Project description
 The well data maps shows the position of all exploration wellbores on the Norwegian shelf. Wellbores are grouped into clusters when zooming out. By clicking on a wellbore position, a popup comes up with additional information. 
 <br>
-    <img src="static/images/foliumapp_screenshot1.jpg" class="centerImage" width="350">
-    <img src="static/images/foliumapp_screenshot2.jpg" class="centerImage" width="350">
-    <img src="static/images/foliumapp_screenshot3.jpg" class="centerImage" width="350">
+    <img src="static/images/foliumapp_screenshot1.jpg" class="centerImage" width="450">
+    <img src="static/images/foliumapp_screenshot2.jpg" class="centerImage" width="450">
+    <img src="static/images/foliumapp_screenshot3.jpg" class="centerImage" width="450">
 <br>
 
 Additionally, there is a contact form where users can contact us with comments/suggestions.
