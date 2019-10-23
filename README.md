@@ -22,7 +22,7 @@ Additionally, there is a contact form where users can contact us with comments/s
 The dataset is in the form of a shapefile which is publicly hosted by the Norwegian Petroleum Directorate, [here.](https://www.npd.no/en/about-us/information-services/available-data/map-services/)
 
 # Future developments
-* Add map functionalites
+* Add map functionalites and features 
 * Make website secure (https:)
 
 # Jupyter notebook to WebApp pipeline
@@ -44,3 +44,15 @@ Note: this pipeline is one of the many possibilities how to transform a Jupyter 
 * **LAUNCH APP!**
 
 # References
+**Flask app howtos**
+https://pythonhow.com/your-first-flask-website/
+https://explore-flask.readthedocs.io/en/latest/organizing.html
+**Folium in Flask**
+https://python-visualization.github.io/folium/flask.html
+**Contact form with Flask-WTF and Flask-mail**
+https://code.tutsplus.com/tutorials/intro-to-flask-adding-a-contact-page--net-28982
+https://www.youtube.com/watch?v=48Eb8JuFuUI
+**Docker**
+https://towardsdatascience.com/how-to-deploy-your-machine-learning-web-app-to-digital-ocean-64bd19ce15e2
+https://www.fullstackpython.com/blog/develop-flask-web-apps-docker-containers-macos.html
+
