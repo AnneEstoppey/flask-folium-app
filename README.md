@@ -45,7 +45,7 @@ Note: this pipeline is one of the many possibilities how to transform a Jupyter 
 
 # References
 **Flask app howtos**<br>
-https://pythonhow.com/your-first-flask-website/
+https://pythonhow.com/your-first-flask-website/<br>
 https://explore-flask.readthedocs.io/en/latest/organizing.html
 
 **Folium in Flask**<br>
