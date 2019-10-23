@@ -22,7 +22,7 @@ Additionally, there is a contact form where users can contact us with comments/s
 The dataset is in the form of a shapefile which is publicly hosted by the Norwegian Petroleum Directorate, [here.](https://www.npd.no/en/about-us/information-services/available-data/map-services/)
 
 # Future developments
-* Add map functionalites and features 
+* Add map functionalites and features (solve display slowness issues for polygons)
 * Make website secure (https:)
 
 # Jupyter notebook to WebApp pipeline
