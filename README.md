@@ -21,8 +21,21 @@ The dataset is in the form of a shapefile which is publicly hosted by the Norweg
 
 # Jupyter notebook to WebApp pipeline
 Note: this pipeline is one of the many possibilities how to put a Jupyter notebook app into production. There are many other solutions.
-* text1
-* text2
-* text3
+* open Jupyter notebook in **Visual Code Studio**. Clean the code (cells, comments, etc). Add functions.
+* create file structure for **Flask** app (app.py, templates, static)
+* add **bootstrap** for UI design
+* add button and menu functionalities (UI/UX)
+* create contact form with **Flask-WTF and Flask-mail**
+* testing and more testing on localhost
+* create **requirements.txt**
+* create **DOCKERFILE**
+* create **github repo** for web app files
+* add a new project and droplet on **DigitalOcean**
+* set up SSH access on remote
+* clone repo on remote
+* create **DOCKER container**
+* **LAUNCH APP!**
+
+# Future developments
 
 # References
