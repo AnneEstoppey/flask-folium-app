@@ -23,7 +23,6 @@ The dataset is in the form of a shapefile which is publicly hosted by the Norweg
 
 # Future developments
 * Add map functionalites and features (solve display slowness issues for polygons)
-* Make website secure (https:)
 
 # Jupyter notebook to WebApp pipeline
 Note: this pipeline is one of the many possibilities how to transform a Jupyter notebook into a web app, and deploy it. There are many other solutions. Here is the main steps we follow:
