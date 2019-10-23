@@ -22,13 +22,13 @@ mail = Mail()
 
 app = Flask(__name__)
 
-app.secret_key = 'DevKeyAnne405743'
+app.secret_key = '****************'
 
 app.config["MAIL_SERVER"] = "smtp.gmail.com"
 app.config["MAIL_PORT"] = 465
 app.config["MAIL_USE_SSL"] = True
-app.config["MAIL_USERNAME"] = 'anne.estoppey@gmail.com'
-app.config["MAIL_PASSWORD"] = 'gdezytpngxzzwgdl' # password generated in Google Account Settings under 'Security', 'App passwords',
+app.config["MAIL_USERNAME"] = 'your_email@gmail.com'
+app.config["MAIL_PASSWORD"] = '****************' # password generated in Google Account Settings under 'Security', 'App passwords',
                                                  # choose 'other' in the app menu, create a name (here: 'FlaskMail'),
                                                  # and generate password. The password has 16 characters. 
                                                  # Copy/paste it under app.config["MAIL_PASSWORD"].
@@ -55,7 +55,7 @@ def contact():
             flash('All fields are required.')
             return render_template('contact.html', form=form)
         else:
-            msg = Message(form.subject.data, sender='contact@example.com', recipients=['anne.estoppey@gmail.com'])
+            msg = Message(form.subject.data, sender='contact@example.com', recipients=['your_email@gmail.com'])
             msg.body = """
             From: %s <%s>
             %s
