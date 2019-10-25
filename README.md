@@ -60,3 +60,11 @@ https://www.youtube.com/watch?v=48Eb8JuFuUI
 https://towardsdatascience.com/how-to-deploy-your-machine-learning-web-app-to-digital-ocean-64bd19ce15e2<br>
 https://www.fullstackpython.com/blog/develop-flask-web-apps-docker-containers-macos.html
 
+**Security, DNS, SSL**<br>
+https://www.digitalocean.com/community/tutorials/how-to-point-to-digitalocean-nameservers-from-common-domain-registrars<br>
+https://www.digitalocean.com/docs/networking/load-balancers/how-to/ssl-termination/<br>
+https://www.youtube.com/watch?v=D2lwk1Ukgz0<br>
+https://www.youtube.com/watch?v=NhidVhNHfeU
+
+
+
