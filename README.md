@@ -63,8 +63,6 @@ https://www.fullstackpython.com/blog/develop-flask-web-apps-docker-containers-ma
 **Security, DNS, SSL**<br>
 https://www.digitalocean.com/community/tutorials/how-to-point-to-digitalocean-nameservers-from-common-domain-registrars<br>
 https://www.digitalocean.com/docs/networking/load-balancers/how-to/ssl-termination/<br>
-https://www.youtube.com/watch?v=D2lwk1Ukgz0<br>
-https://www.youtube.com/watch?v=NhidVhNHfeU
 
 
 
