@@ -10,7 +10,7 @@ PLEASE NOTE: the app is not presently online due to costs. We have deployed this
 # Project description
 The well data map shows the position of all exploration wellbores on the Norwegian shelf. Wellbores are grouped into clusters when zooming out. By clicking on a wellbore position, a popup comes up with additional information. 
 
-**Stack**
+## Stack
 Folium, Flask (Flask-wtf, Flask-mail), Bootstrap, Docker.
 
 <br>
