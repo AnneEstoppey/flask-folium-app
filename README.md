@@ -5,7 +5,7 @@ By developing this app, we wished to accomplish the following:
 
 2. Gain experience with the full path from a Jupyter Notebook, to a Flask app, to deployment.
 
-PLEASE NOTE: the app is not presently online due to costs. We have deployed this app on DigitalOcean during a limited time to test it.
+PLEASE NOTE: the app is not presently online due to costs. We have deployed this app on DigitalOcean during a limited time to test it. This repo contains all necessary files for deployment.
 
 # Project description
 The well data map shows the position of all exploration wellbores on the Norwegian shelf. Wellbores are grouped into clusters when zooming out. By clicking on a wellbore position, a popup comes up with additional information. 
