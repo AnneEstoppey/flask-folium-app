@@ -29,7 +29,7 @@ The dataset is in the form of a shapefile which is publicly hosted by the Norweg
 # Jupyter notebook to WebApp pipeline
 Note: this pipeline is one of the many possibilities how to transform a Jupyter notebook into a web app, and deploy it. There are many other solutions. Here is the main steps we follow:
 
-* open Jupyter notebook in **Visual Code Studio**. Clean the code (cells, comments, etc). Add functions.
+* open Jupyter notebook in **Visual Studio Code**. Clean the code (cells, comments, etc). Add functions.
 * create file structure for **Flask** app (app.py, templates, static)
 * add **bootstrap** for UI design
 * add button and menu functionalities (UI/UX)
