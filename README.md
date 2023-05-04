@@ -14,8 +14,8 @@ The well data map shows the position of all exploration wellbores on the Norwegi
 
 <br>
     <img src="https://raw.githubusercontent.com/AnneEstoppey/flask-folium-app/master/static/images/foliumapp_screenshot1.jpg" class="centerImage" width="550">
-    <img src="static/images/foliumapp_screenshot2.jpg" class="centerImage" width="550">
-    <img src="static/images/foliumapp_screenshot3.jpg" class="centerImage" width="550">
+    <img src="https://raw.githubusercontent.com/AnneEstoppey/flask-folium-app/master/static/images/foliumapp_screenshot2.jpg" class="centerImage" width="550">
+    <img src="https://raw.githubusercontent.com/AnneEstoppey/flask-folium-app/master/static/images/foliumapp_screenshot3.jpg" class="centerImage" width="550">
 <br>
 
 Additionally, there is a contact form where users can contact us with comments/suggestions.
