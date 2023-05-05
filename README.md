@@ -11,13 +11,11 @@ PLEASE NOTE: the app is not presently online due to costs. We have deployed this
 The well data map shows the position of all exploration wellbores on the Norwegian shelf. Wellbores are grouped into clusters when zooming out. By clicking on a wellbore position, a popup comes up with additional information. 
 
 **Stack:** Folium, Flask (Flask-wtf, Flask-mail), Bootstrap, Docker..
-
 <br>
-    <img src="https://raw.githubusercontent.com/AnneEstoppey/flask-folium-app/master/static/images/foliumapp_screenshot1.jpg" class="centerImage" width="550">
-    <img src="https://raw.githubusercontent.com/AnneEstoppey/flask-folium-app/master/static/images/foliumapp_screenshot2.jpg" class="centerImage" width="550">
-    <img src="https://raw.githubusercontent.com/AnneEstoppey/flask-folium-app/master/static/images/foliumapp_screenshot3.jpg" class="centerImage" width="550">
+    <img src="https://user-images.githubusercontent.com/35219455/236453306-bb4f5efa-68a9-4e53-b229-564c3abcaedd.jpg" class="centerImage" width="550">
+    <img src="https://user-images.githubusercontent.com/35219455/236453304-f8cf69d4-a813-49d6-8f3b-c568e3d34117.jpg" class="centerImage" width="550">
+    <img src="https://user-images.githubusercontent.com/35219455/236453301-9ef12652-1e8a-49fe-8989-ea2864b28156.jpg" class="centerImage" width="550">
 <br>
-
 Additionally, there is a contact form where users can contact us with comments/suggestions.
 
 # Data
